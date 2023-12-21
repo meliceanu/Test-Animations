@@ -1,0 +1,13 @@
+.first-animation {
+  border: 1px solid black;
+  width: 300px;
+  height: 300px;
+  position: relative;
+  .first-text-animation {
+    position: absolute;
+    font-weight: bold;
+    font-style: italic;
+    top: 0;
+    left: 10px;
+  }
+}
